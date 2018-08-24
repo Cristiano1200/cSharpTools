@@ -2,7 +2,7 @@
 cSharp classes to help you
 
 
-using XMLmanager;
+using XMLmanager; \n
 XMLmana(List<string[]> sett)   where 
 List<String[]> sett = new List<String[]>
 {
