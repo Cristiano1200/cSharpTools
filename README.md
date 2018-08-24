@@ -1,7 +1,6 @@
 # cSharpTools
 cSharp classes to help you
 
-
 using XMLmanager;
 
 XMLmana(List<string[]> sett)   where 
@@ -17,9 +16,8 @@ List<String[]> sett = new List<String[]>
     new[] { "Setting3", "Default-value3" },
     
     ...
-    
 };
 
-AddSetting( "<Setting-name>" , "<Default-value>" , "<User-value>"[optional] );
+AddSetting( "Setting-name" , "Default-value" , "User-value"[optional] );
     
     
